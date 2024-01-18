@@ -6,6 +6,8 @@ public class calci {
         int n2=5;
         //addition of two numbers
         System.out.println(n1-n2);
+        System.out.println(n1+n2);
+
 
     }
 }
