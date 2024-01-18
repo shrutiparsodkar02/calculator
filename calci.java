@@ -5,6 +5,9 @@ public class calci {
         int n1=10;
         int n2=5;
 
+        //remainder of two numbers
+        System.out.println(n1%n2);
+
         //divison of two numbers
         System.out.println(n1/n2);
 
@@ -15,6 +18,7 @@ public class calci {
         //addition of two numbers
         System.out.println(n1-n2);
         System.out.println(n1+n2);
+
 
 
 
